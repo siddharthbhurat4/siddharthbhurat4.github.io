@@ -15,15 +15,15 @@ redirect_from:
 **🌟 Introduction**
 ---
 
-Greetings! I am a dedicated graduate student pursuing Robotics and Automation Engineering, driven by the ambition to create projects that serve both technical innovation and societal advancement. My fascination with robots dates back to my childhood, fueling the dream of designing robots to simplify and automate tasks. This passion guided my pursuit of an undergraduate degree in Robotics and Automation.
+👋 Greetings! I'm a passionate graduate student in Robotics and Automation Engineering, on a mission to craft projects that blend cutting-edge technology with societal impact. 🤖 My lifelong fascination with robots fueled my dream of simplifying and automating tasks.
 
-My educational journey has been a dynamic exploration of a vast array of technologies, ranging from foundational electronics, controllers, processors, and sensors to advanced domains such as Linux-based systems, ROS (Robot Operating System), Robot Kinematics, Computer Vision, and Artificial Intelligence. I have not only learned about these technologies but have actively applied them in various projects, showcasing my commitment to hands-on learning.
+🎓 Pursuing an undergrad degree in Robotics and Automation, my journey has been a deep dive into diverse technologies: from foundational electronics, controllers, processors, and sensors to advanced realms like Linux-based systems, ROS (Robot Operating System), Robot Kinematics, Computer Vision, and Artificial Intelligence.
 
-My primary focus lies in the fusion of these technologies, particularly in the realm of autonomous navigation. The projects I have undertaken and continue to work on exemplify my dedication to pushing the boundaries of innovation in this field.
+🛠️ My focus? The fusion of these technologies, particularly in the captivating field of autonomous mobile robots and robotic arms. 🚀 My projects stand as testaments to this commitment, with more innovations in the pipeline.
 
-As a graduate student, I am eager to transition into a full-time role where I can contribute my skills, knowledge, and passion for robotics to real-world applications. The journey has just begun, and I am excited about the miles ahead, each step bringing new opportunities to learn, create, and innovate.
+🔍 Now, as a graduate student, I'm eagerly eyeing a full-time role where I can channel my skills, knowledge, and robotics passion into real-world applications. 
 
-The journey has just begun, miles to go before I sleep !!!
+The journey has just begun, miles to go before I sleep 💡!!!
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
