@@ -10,7 +10,9 @@ redirect_from:
 {% include base_path %}
 ***
 Education
+
 ***
+
 * University of Michigan, Ann Arbor <span style="float:right;">August 2022 – April 2024</span>
   * Master of Science in Robotics (GPA 4/4)
   * **Graduate student Instructor** for Robotic Systems Laboratory (ROB550)
@@ -18,13 +20,17 @@ Education
 * Maharashtra Institute of Technology, World Peace University <span style="float:right;">May 2022</span>
 
 Summary
+
 ***
+
 Dynamic Robotics Engineer with a proven track record in designing and implementing innovative solutions. Proficient in 
 developing robotic systems, leveraging expertise in robotic arms, AGV, AMR using sensor fusion, control systems, machine 
 learning, and computer vision to drive advancements in smart manufacturing systems and autonomous technologies.
 
 Technical Skills
+
 ***
+
 * Programming languages: Python, C, C++, Ladder Logic
  
 * Framework/ Libraries: Robot Operating System (ROS1 & ROS2), Pytorch, OpenCV, scikit-learn 
@@ -40,7 +46,9 @@ Technical Skills
 * Key Skills: Computer Vision(RGBD), Controls, Deep Learning, Pose Estimation, ADAS 
 
 Professional Experience
+
 ***
+
 **Milwaukee Electric Tool Corporation, Brookfield, Wisconsin** <span style="float:right;">May 2023 – August 2023</span>                     
 *Robotics Engineering Intern – Autonomous Lawn Mower (Manual -> Fully Autonomous)*
 
@@ -71,7 +79,9 @@ achieved ±3cm accuracy; incorporated udev rules for USB communication; used inv
 
 
 Project Experience
+
 ***
+
 **Model Predictive Control Based Path Following and Obstacle Avoidance for a Drone**  <span style="float:right;">August 2023 – December 2023</span>                 
 * Modeled the drone dynamics in MATLAB using Newton's equations of motion 
 * Formulated a constrained nonlinear optimization problem considering shortest path and obstacle avoidance 
@@ -87,5 +97,7 @@ ArmLab| Robotics Arm                                            August 2022 – 
 coordinates in the real world using camera intrinsic and extrinsic matrices for pick and place and stacking operations
   
 Service and leadership
+
 ***
+
 * Member of Tau Beta Pi
