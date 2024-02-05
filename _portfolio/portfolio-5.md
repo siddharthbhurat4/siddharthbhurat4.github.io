@@ -1,5 +1,5 @@
 ---
-title: "Demonstration of drone survey and rescue using ROS"
+title: "Demonstration of Drone Survey and Rescue Operation using ROS"
 excerpt: "ROS, Computer Vision, PID, Tag Detection<br/><img src='/images/drone_survey_res.png'>"
 collection: portfolio
 ---
