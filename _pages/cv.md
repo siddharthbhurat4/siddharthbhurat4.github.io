@@ -18,37 +18,6 @@ Dynamic Robotics Engineer with a proven track record in designing and implementi
 developing robotic systems, leveraging expertise in robotic arms, AGV, AMR using sensor fusion, control systems, machine 
 learning, and computer vision to drive advancements in smart manufacturing systems and autonomous technologies.
 
-***
-
-Education
-
-***
-
-* University of Michigan, Ann Arbor <span style="float:right;">August 2022 – April 2024</span>
-  * Master of Science in Robotics (GPA 4/4)
-  * **Graduate student Instructor** for Robotic Systems Laboratory (ROB550)
-      
-* Maharashtra Institute of Technology, World Peace University <span style="float:right;">May 2022</span>
-
-
-**Technical Skills**
-
-***
-
-* Programming languages: Python, C, C++, Ladder Logic
- 
-* Framework/ Libraries: Robot Operating System (ROS1 & ROS2), Pytorch, OpenCV, scikit-learn 
-
-* Version Control: Git, Docker 
-
-* Operating systems: Windows, Linux 
-
-* Microprocessors and Microcontrollers: Raspberrypi, JetsonNano, tinkerboard, NodeMCU (UART, USART, I2C, SPI, MQTT, CAN) 
-
-* Software & Manufacturing: MATLAB, Gazebo Simulator, RViz, Robo-analyzer- Robot Kinematics, 3D – Printing, Fusion360
-
-* Key Skills: Computer Vision(RGBD), Controls, Deep Learning, Pose Estimation, ADAS 
-
 **Professional Experience**
 
 ***
@@ -80,7 +49,7 @@ achieved ±3cm accuracy; incorporated udev rules for USB communication; used inv
 * Developed C++ libraries for soil moisture, temperature sensors and stereo cameras, integrated with their operating system 
 * Led a team, developing a computer vision application to detect patient motion, triggering urgent medical aid signals
   
-
+***
 
 **Project Experience**
 
@@ -99,6 +68,39 @@ ArmLab| Robotics Arm                                            August 2022 – 
 * Computed DH parameters and executed forward and inverse kinematics using Python alongside ROS 
 * Devised  a  block  detection  algorithm  by  segmenting  blocks  using  computer  vision  techniques  and  calculating  their 
 coordinates in the real world using camera intrinsic and extrinsic matrices for pick and place and stacking operations
+
+
+***
+
+Education
+
+***
+
+* University of Michigan, Ann Arbor <span style="float:right;">August 2022 – April 2024</span>
+  * Master of Science in Robotics (GPA 4/4)
+  * **Graduate student Instructor** for Robotic Systems Laboratory (ROB550)
+      
+* Maharashtra Institute of Technology, World Peace University <span style="float:right;">May 2022</span>
+
+
+**Technical Skills**
+
+***
+
+* Programming languages: Python, C, C++, Ladder Logic
+ 
+* Framework/ Libraries: Robot Operating System (ROS1 & ROS2), Pytorch, OpenCV, scikit-learn 
+
+* Version Control: Git, Docker 
+
+* Operating systems: Windows, Linux 
+
+* Microprocessors and Microcontrollers: Raspberrypi, JetsonNano, tinkerboard, NodeMCU (UART, USART, I2C, SPI, MQTT, CAN) 
+
+* Software & Manufacturing: MATLAB, Gazebo Simulator, RViz, Robo-analyzer- Robot Kinematics, 3D – Printing, Fusion360
+
+* Key Skills: Computer Vision(RGBD), Controls, Deep Learning, Pose Estimation, ADAS 
+
   
 **Service and leadership**
 
