@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+***
 Education
 ======
 * University of Michigan, Ann Arbor <span style="float:right;">August 2022 – April 2024</span>
