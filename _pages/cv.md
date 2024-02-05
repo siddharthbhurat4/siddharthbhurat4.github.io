@@ -49,8 +49,7 @@ achieved ±3cm accuracy; incorporated udev rules for USB communication; used inv
 * Developed C++ libraries for soil moisture, temperature sensors and stereo cameras, integrated with their operating system 
 * Led a team, developing a computer vision application to detect patient motion, triggering urgent medical aid signals
   
-***
-
+  
 **Project Experience**
 
 ***
