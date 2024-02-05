@@ -57,12 +57,14 @@ achieved ±3cm accuracy; incorporated udev rules for USB communication; used inv
 **Model Predictive Control Based Path Following and Obstacle Avoidance for a Drone**  <span style="float:right;">August 2023 – December 2023</span>                 
 * Modeled the drone dynamics in MATLAB using Newton's equations of motion 
 * Formulated a constrained nonlinear optimization problem considering shortest path and obstacle avoidance 
-* Implemented nonlinear model predictive control for the defined problem using MATLAB & compared with PID controller  
-Distributed Control, Scheduling and Planning of Multi Robot System                              August 2023 – December 2023 
+* Implemented nonlinear model predictive control for the defined problem using MATLAB & compared with PID controller
+
+**Distributed Control, Scheduling and Planning of Multi Robot System**  <span style="float:right;">August 2023 – December 2023</span>                            
 * Researched on converting a centralized multi robot control and scheduling into a distributed system where all the different 
 robot capabilities intermittently/continuously communicate with each other & gain information from each other 
 * This type of system which is distributed will help in reducing the communication requirements compared to central system  
-ArmLab| Robotics Arm                                            August 2022 – October 2022 
+
+**ArmLab | Robotic Arm**  <span style="float:right;">August 2022 – October 2022</span>                                           
 * Employed the Interbotix Robotic (6 DOF) Arm to create a pick and place application using a depth camera 
 * Computed DH parameters and executed forward and inverse kinematics using Python alongside ROS 
 * Devised  a  block  detection  algorithm  by  segmenting  blocks  using  computer  vision  techniques  and  calculating  their 
