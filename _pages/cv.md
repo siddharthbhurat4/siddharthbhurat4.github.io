@@ -49,7 +49,7 @@ achieved ±3cm accuracy; incorporated udev rules for USB communication; used inv
 * Developed C++ libraries for soil moisture, temperature sensors and stereo cameras, integrated with their operating system 
 * Led a team, developing a computer vision application to detect patient motion, triggering urgent medical aid signals
   
-  
+
 **Project Experience**
 
 ***
@@ -68,10 +68,7 @@ ArmLab| Robotics Arm                                            August 2022 – 
 * Devised  a  block  detection  algorithm  by  segmenting  blocks  using  computer  vision  techniques  and  calculating  their 
 coordinates in the real world using camera intrinsic and extrinsic matrices for pick and place and stacking operations
 
-
-***
-
-Education
+**Education**
 
 ***
 
