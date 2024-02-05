@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Model Predictive Control Based Path Following and Obstacle Avoidance for a Drone"
+excerpt: "Explore my work in Model Predictive Control, guiding drones with advanced path following and obstacle avoidance capabilities<br/><img src='/images/drone_frame.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+* I successfully defined and linearized the quadcopter’s dynamics, and evaluated its stability. 
+* Further-more, implemented two distinct controllers - Linear Quadratic Regulator (LQR) and Model Predictive Control(MPC) - both of which demonstrated proficiency in trajectory  tracking. 
+* Lastly, by adding constraints to the MPC and integrating the Rapidly-exploring Random Tree (RRT) algorithm to LQR, was able to create collision free paths and demonstrated the capability of the controllers to effectively avoid obstacles.
