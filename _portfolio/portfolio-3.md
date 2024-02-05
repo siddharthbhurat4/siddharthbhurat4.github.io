@@ -1,5 +1,5 @@
 ---
-title: "MBot| Autonomous Mobile Robot"
+title: "MBot - Autonomous Mobile Robot"
 excerpt: "SLAM, Sensor Fusion, Particle Filter, PID<br/><img src='/images/mbot.png'>"
 collection: portfolio
 ---
