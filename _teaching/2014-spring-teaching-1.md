@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Michigan, Robotics Department"
-# date: "August 2023 – April 2024"
+date: 2023-08-08
 # location: "City, Country"
 ---
 
