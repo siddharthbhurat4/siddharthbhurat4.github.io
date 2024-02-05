@@ -13,7 +13,7 @@ location: "City, Country"
 # Graduate Student Instructor for Robotic Systems Lab
 
 
-* Course Code - ROB550
+* Course Code - ROB550 <span style="float:right;">August 2023 – April 2024</span>
 
 I served as a Student Instructor for the Robotic Systems Lab course, guiding students through the exploration, conceptualization, and implementation of a robotic arm-based pick-and-place application. This multifaceted project encompassed fundamental tasks such as forward and inverse kinematics, computer vision-based object detection, and automatic camera calibration.
 
