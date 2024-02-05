@@ -19,8 +19,11 @@ collection: portfolio
 <!-- <center>
   ![Trajectory of Drone](/images/obstacle_avoidance_traj.png)
 </center> -->
-<center>
+<!-- <center>
     ![Trajectory of Drone](/images/obstacle_avoidance_traj.png)
-</center>
+</center> -->
+
+<img src="/images/obstacle_avoidance_traj.png" alt="Trajectory of Drone" style="display: block; margin: 0 auto;">
+
 
 * Lastly, by adding constraints to the MPC and integrating the Rapidly-exploring Random Tree (RRT) algorithm to LQR, was able to create collision free paths and demonstrated the capability of the controllers to effectively avoid obstacles.
