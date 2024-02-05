@@ -25,19 +25,19 @@ learning, and computer vision to drive advancements in smart manufacturing syste
 
 Technical Skills
 ======
-Programming languages: Python, C, C++, Ladder Logic
+* Programming languages: Python, C, C++, Ladder Logic
  
-Framework/ Libraries: Robot Operating System (ROS1 & ROS2), Pytorch, OpenCV, scikit-learn 
+* Framework/ Libraries: Robot Operating System (ROS1 & ROS2), Pytorch, OpenCV, scikit-learn 
 
-Version Control: Git, Docker 
+* Version Control: Git, Docker 
 
-Operating systems: Windows, Linux 
+* Operating systems: Windows, Linux 
 
-Microprocessors and Microcontrollers: Raspberrypi, JetsonNano, tinkerboard, NodeMCU (UART, USART, I2C, SPI, MQTT, CAN) 
+* Microprocessors and Microcontrollers: Raspberrypi, JetsonNano, tinkerboard, NodeMCU (UART, USART, I2C, SPI, MQTT, CAN) 
 
-Software & Manufacturing: MATLAB, Gazebo Simulator, RViz, Robo-analyzer- Robot Kinematics, 3D – Printing, Fusion360
+* Software & Manufacturing: MATLAB, Gazebo Simulator, RViz, Robo-analyzer- Robot Kinematics, 3D – Printing, Fusion360
 
-Key Skills: Computer Vision(RGBD), Controls, Deep Learning, Pose Estimation, ADAS 
+* Key Skills: Computer Vision(RGBD), Controls, Deep Learning, Pose Estimation, ADAS 
 
 Professional Experience
 ======
