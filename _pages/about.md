@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🏫 I am a final year graduate student at University of Michigan Ann Arbor
+🏫 I am a final year graduate student at University of Michigan, Ann Arbor
 
 👷‍♂️ SUMMARY GOES HERE
 
