@@ -79,7 +79,7 @@ coordinates in the real world using camera intrinsic and extrinsic matrices for 
   * **Graduate student Instructor** for Robotic Systems Laboratory (ROB550)
       
 * Maharashtra Institute of Technology, World Peace University <span style="float:right;">May 2022</span>
-
+  * Bachelor of Technology in Robotics and Automation (CGPA 9.61/10)
 
 **Technical Skills**
 
