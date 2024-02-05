@@ -1,10 +1,10 @@
 ---
 title: "Autonomous Robot Version 1"
-excerpt: "Arduino Mega, GPS Sensor, IMU, Ultrasonic Sensor, Motor Driver<br/><img src='/images/auto_rob_v1.png'>"
+excerpt: "Arduino Mega, GPS Sensor, IMU, Ultrasonic Sensor, Motor Driver<br/><img src='/images/auto_rob_v1.jpg'>"
 collection: portfolio
 ---
 
-<img src="/images/auto_rob_v1.png" alt="Autonomous Outdoor Robot" style="display: block; margin: 0 auto;">
+<img src="/images/auto_rob_v1.jpg" alt="Autonomous Outdoor Robot" style="display: block; margin: 0 auto;">
 
 * I started with this project to implement my idea of making a navigation stack which can be used for different purposes like autonomous deliveries, automation in agriculture and for use in defense during secret missions.
 * It uses GPS sensor to get the local coordinates of the robot , magnetometer to determine the heading direction of the robot and accelerometer to know about its orientation.
