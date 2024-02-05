@@ -17,7 +17,7 @@ redirect_from:
 
 👋 Greetings! I'm a passionate graduate student in Robotics and Automation Engineering, on a mission to craft projects that blend cutting-edge technology with societal impact. 🤖 My lifelong fascination with robots fueled my dream of simplifying and automating tasks.
 
-🎓 Pursuing an undergrad degree in Robotics and Automation, my journey has been a deep dive into diverse technologies: from foundational electronics, controllers, processors, and sensors to advanced realms like Linux-based systems, ROS (Robot Operating System), Robot Kinematics, Computer Vision, and Artificial Intelligence.
+🎓 Pursuing an undergraduate and a graduate degree in Robotics and Automation, my journey has been a deep dive into diverse technologies: from foundational electronics, controllers, processors, and sensors to advanced realms like Linux-based systems, ROS (Robot Operating System), Robot Kinematics, Computer Vision, and Artificial Intelligence.
 
 🛠️ My focus? The fusion of these technologies, particularly in the captivating field of autonomous mobile robots and robotic arms. 🚀 My projects stand as testaments to this commitment, with more innovations in the pipeline.
 
