@@ -9,6 +9,17 @@ redirect_from:
 
 {% include base_path %}
 ***
+
+**Summary**
+
+***
+
+Dynamic Robotics Engineer with a proven track record in designing and implementing innovative solutions. Proficient in 
+developing robotic systems, leveraging expertise in robotic arms, AGV, AMR using sensor fusion, control systems, machine 
+learning, and computer vision to drive advancements in smart manufacturing systems and autonomous technologies.
+
+***
+
 Education
 
 ***
@@ -19,15 +30,8 @@ Education
       
 * Maharashtra Institute of Technology, World Peace University <span style="float:right;">May 2022</span>
 
-Summary
 
-***
-
-Dynamic Robotics Engineer with a proven track record in designing and implementing innovative solutions. Proficient in 
-developing robotic systems, leveraging expertise in robotic arms, AGV, AMR using sensor fusion, control systems, machine 
-learning, and computer vision to drive advancements in smart manufacturing systems and autonomous technologies.
-
-Technical Skills
+**Technical Skills**
 
 ***
 
@@ -45,7 +49,7 @@ Technical Skills
 
 * Key Skills: Computer Vision(RGBD), Controls, Deep Learning, Pose Estimation, ADAS 
 
-Professional Experience
+**Professional Experience**
 
 ***
 
@@ -59,7 +63,7 @@ achieved ±3cm accuracy; incorporated udev rules for USB communication; used inv
 * Developed a robust mapping algorithm with frontier detection for autonomous exploration using C++  
 
 **Barton Research Group @ University of Michigan** <span style="float:right;">January 2023 – April 2023</span>                      
-*Research Assistant - Heterogenous Multi Robot Integration for End to End Automation in Manufacturing *
+*Research Assistant - Heterogenous Multi Robot Integration for End to End Automation in Manufacturing*
 
 * Deployed diverse robots (Toyota HSR, Kuka Kmr, Kawasaki Duaro) with a unified master controller, enabling shared sensing 
 & seamless integration via ROS over WiFi; implemented SLAM, exploration for mapping & A* algorithm using C++  
@@ -78,7 +82,7 @@ achieved ±3cm accuracy; incorporated udev rules for USB communication; used inv
   
 
 
-Project Experience
+**Project Experience**
 
 ***
 
@@ -96,7 +100,7 @@ ArmLab| Robotics Arm                                            August 2022 – 
 * Devised  a  block  detection  algorithm  by  segmenting  blocks  using  computer  vision  techniques  and  calculating  their 
 coordinates in the real world using camera intrinsic and extrinsic matrices for pick and place and stacking operations
   
-Service and leadership
+**Service and leadership**
 
 ***
 
